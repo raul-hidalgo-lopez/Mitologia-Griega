@@ -22,10 +22,9 @@ margin-right: auto;
 }
 
 .imgtabla{
-display: block;
 width: 60px;
 height: 50px;
-width: 100%;
+
 }
 
 figcaption{text-align: center; color: white;}
