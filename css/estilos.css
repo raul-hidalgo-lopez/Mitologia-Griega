@@ -1,9 +1,13 @@
-.header { background-color: #010342; color: #f4f4f4; text-align: center;}
+body {
+  background-color: #0b0f52;
+}
+
+.header { background-color: #f4f4f4; color: #0b0f52; text-align: center;}
 
 .container { width: 80%; margin: auto; overflow: hidden; }
 
-.card { background: #1020b3; padding: 20px; margin-top: 20px; }
+.card { background: #0D15A6; padding: 20px; margin-top: 20px; }
 
 .card img { width: width:200px; height:150px; }
 
-.footer { background-color: #010342; color: white; text-align: center; padding: 1em; margin-top: 20px; }
+.footer { background-color: #0b0f52; color: white; text-align: center; padding: 1em; margin-top: 20px; }
