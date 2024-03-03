@@ -1,22 +1,9 @@
-body {
-  background-color: #0b0f52;
-}
-h1 {
-  color: #2571cf;
-}
-ul {
-  color: #c72a28;
-}
+.header { background-color: #010342; color: #f4f4f4; text-align: center;}
 
-.center{
-	margin-left: auto;
-	margin-right: auto;
-}
+.container { width: 80%; margin: auto; overflow: hidden; }
 
-img{
-display: block;
-width: 400px;
-height: 300px;
-}
+.card { background: #1020b3; padding: 20px; margin-top: 20px; }
 
-figcaption{text-align: center;}
+.card img { width: width:200px; height:150px; }
+
+.footer { background-color: #010342; color: white; text-align: center; padding: 1em; margin-top: 20px; }
