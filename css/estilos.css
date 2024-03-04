@@ -2,7 +2,7 @@ body {
   background-color: #0b0f52;
 }
 
-.header { background-color: #f4f4f4; color: #0b0f52; text-align: center;}
+.header { background-color: #f4f4f4; color: #0b0f52; text-align: center; padding: 20px; margin-top: 20px;}
 
 .container { width: 80%; margin: auto; overflow: hidden; }
 
