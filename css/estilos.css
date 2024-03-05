@@ -3,7 +3,7 @@ body {
 }
 
 .header { 
-  background-color: #f4f4f4;
+  background-color: #ffffff;
   color: #0b0f52;
   text-align: center;
   padding: 15px;
@@ -13,6 +13,11 @@ body {
 
 .container { width: 80%; margin: auto; overflow: hidden; }
 
-.card { background: #0D15A6; padding: 20px; margin-top: 20px; }
+.card {
+  background: #0D15A6;
+  padding: 20px;
+  margin-top: 20px;
+  font-color: #ffffff;
+}
 
 .cardimg { width:150px; height:100px; }
