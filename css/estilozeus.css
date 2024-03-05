@@ -8,6 +8,12 @@ ul {
   color: #c72a28;
 }
 
+.descripcion{
+  margin-top: 40px;
+  color: #ffffff;
+  font-size: 16px;	
+}
+
 
 .center{
 	margin-left: auto;
