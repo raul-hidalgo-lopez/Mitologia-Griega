@@ -8,7 +8,7 @@ body {
   text-align: center;
   padding: 15px;
   margin-top: 40px;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .container { width: 80%; margin: auto; overflow: hidden; }
@@ -20,4 +20,7 @@ body {
   font-color: #ffffff;
 }
 
-.cardimg { width:150px; height:100px; }
+.cardimg { 
+  width:150px;
+  height:150px;
+}
